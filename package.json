@@ -9,8 +9,9 @@
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0",
-    "mongoose": "^5.10.5",
-    "next": "9.3.5",
+    "mongoose": "^5.11.9",
+    "next": "^9.5.5",
+    "nuxt": "^2.14.12",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "semantic-ui-css": "^2.4.1",

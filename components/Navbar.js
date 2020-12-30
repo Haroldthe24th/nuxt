@@ -1,6 +1,7 @@
-import Link from "next/Link";
+import Link from "next/link";
 
 const Navbar = () => (
+
     <nav  className="navbar">
         <Link href="/">
             <a className="navbar-brand">Note App</a>
